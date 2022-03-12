@@ -1,2 +1,1 @@
-# stock-price-prediction
-Work with historical data about the stock prices of a publicly listed company. I will implement a mix of machine learning algorithms to predict the future stock price of this company, starting with simple algorithms like averaging and linear regression, and then move on to advanced techniques like Auto ARIMA and LSTM.
+using this code, you can work with historical data on the stock prices of a public company registered on the stock exchange. I will be implementing a combination of machine learning algorithms to predict the future stock price of this company, starting with simple algorithms such as averaging and linear regression, and then moving on to advanced methods such as Auto ARIMA and LSTM.
